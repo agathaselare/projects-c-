@@ -1,6 +1,8 @@
 # projects-c-
-Here I will show little projects in c++, mostly they will be solutions to coding problems online.
-Please find a link attached to the problem in the code for each.
+Here I will show little projects in c++, mostly they will be solutions to coding problems online I feel proud of.
+Please find a link attached to the problem in the code for each below.
+
+-Light pearl:https://jutge.org/problems/P11914_en/statement
 
 
 
